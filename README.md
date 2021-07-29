@@ -5,6 +5,8 @@
 We can create task list to do with the priority labels of color
 we can edit them
 can change priorities
+
+every task has a differnet id to filter and to find
 # Stack Used
 
 Frontend : HTML, CSS, JS
